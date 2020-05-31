@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 # relative_permalinks: true
 
-plugins:
-  - jekyll-multiple-languages-plugin
+# plugins:
+#   - jekyll-multiple-languages-plugin
 
 languages: ["en", "ka"]
 
