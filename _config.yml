@@ -6,6 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 # relative_permalinks: true
 
+languages: ["en", "ka"]
+
+exclude_from_localizations: ["javascript", "images", "css"]
+
 # Setup
 title:            David Sichinava
 tagline:          'A Jekyll theme'
