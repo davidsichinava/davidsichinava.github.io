@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 # relative_permalinks: true
 
- plugins:
+plugins:
    - multiple-languages
 
 languages: ["en", "ka"]
