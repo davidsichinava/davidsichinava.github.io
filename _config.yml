@@ -6,9 +6,13 @@ highlighter:      pygments
 permalink:        pretty
 # relative_permalinks: true
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
 languages: ["en", "ka"]
 
 exclude_from_localizations: ["javascript", "images", "css"]
+
 
 # Setup
 title:            David Sichinava
