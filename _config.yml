@@ -11,7 +11,13 @@ permalink:        pretty
 
 languages: ["en", "ka"]
 
-exclude_from_localizations: ["javascript", "images", "css"]
+exclude_from_localizations: ["javascript", "images", "css", "CNAME"]
+
+defaultLang: en
+
+languageNames:
+  ka: ქართული
+  en: English
 
 
 # Setup
