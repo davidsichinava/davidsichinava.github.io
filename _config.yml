@@ -7,7 +7,7 @@ permalink:        pretty
 # relative_permalinks: true
 
 plugins:
-  - multiple-languages
+  - jekyll-multiple-languages-plugin
 
 languages: ["en", "ka"]
 
