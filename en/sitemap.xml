@@ -4,16 +4,6 @@
   
   <url>
     <loc>/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
   </url>
   
   <url>
@@ -25,33 +15,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ka"
                 href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,33 +34,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ka"
                 href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -108,38 +48,8 @@
     <loc>/en/research/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ka"
                 href="/ka/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -150,36 +60,6 @@
   
   <url>
     <loc>/en/teaching/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
