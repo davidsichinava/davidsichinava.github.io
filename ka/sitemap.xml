@@ -11,45 +11,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ka"
                 href="/ka/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ka/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>/ka/research/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ka/teaching/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
                 />
   </url>
   

@@ -20,11 +20,6 @@
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ka"
                 href="/ka/about/"
                 />
@@ -32,53 +27,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publications/"
-                />
-  </url>
-  
-  <url>
-    <loc>/research/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/research/"
-                />
-  </url>
-  
-  <url>
-    <loc>/teaching/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/teaching/"
                 />
   </url>
   

@@ -20,35 +20,5 @@
 </description>
     </item>
     
-    <item>
-      <title>About</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/</guid>
-      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
