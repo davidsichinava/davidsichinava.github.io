@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pollster.ge</title>
+    <title>About on Pollster.ge</title>
     <link>/en/</link>
-    <description>Pollster.ge</description>
+    <description>Pollster.ge (About)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -16,6 +16,36 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/en/about/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/publications/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/research/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/teaching/</guid>
       <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
 </description>
     </item>
