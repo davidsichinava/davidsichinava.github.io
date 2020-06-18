@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ka/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/ka/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -83,6 +78,20 @@
                 rel="alternate"
                 hreflang="ka"
                 href="/ka/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ka/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/"
                 />
   </url>
   
