@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -12,12 +12,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -26,12 +26,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="/en/about/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -40,12 +40,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -54,7 +54,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
   </url>
   
