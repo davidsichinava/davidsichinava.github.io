@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ჩემს შესახებ on Pollster.ge</title>
+    <link>/kartuli/</link>
+    <description>Pollster.ge (ჩემს შესახებ)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+    <atom:link href="/kartuli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/kartuli/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kartuli/about/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/kartuli/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kartuli/publications/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/kartuli/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kartuli/research/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/kartuli/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/kartuli/teaching/</guid>
+      <description>&lt;p&gt;This is English-language about page&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

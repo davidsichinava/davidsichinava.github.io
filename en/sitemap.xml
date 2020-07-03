@@ -3,35 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/</loc>
+    <loc>/english/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/"
+                hreflang="en"
+                href="/kartuli/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/english/"
                 />
   </url>
   
   <url>
-    <loc>/en/about/</loc>
+    <loc>/english/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
+                hreflang="en"
+                href="/english/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="/kartuli/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/about/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>/english/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/publications/"
+                />
+  </url>
+  
+  <url>
+    <loc>/english/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>/english/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/teaching/"
+                />
+  </url>
+  
+  <url>
+    <loc>/kartuli/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/kartuli/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/kartuli/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>/kartuli/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/teaching/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -40,12 +143,26 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -54,7 +171,21 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/kartuli/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/english/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/kartuli/"
                 />
   </url>
   
