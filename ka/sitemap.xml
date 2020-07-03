@@ -7,12 +7,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publications/"
+                href="/en/publications/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,7 +30,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/research/"
+                href="/en/research/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,7 +44,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/teaching/"
+                href="/en/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,7 +58,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -72,7 +72,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -86,7 +86,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
