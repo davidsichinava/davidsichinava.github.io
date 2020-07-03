@@ -3,6 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ka/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ka/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/ka/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ka/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/teaching/"
+                />
+  </url>
+  
+  <url>
     <loc>/ka/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,20 +68,6 @@
   </url>
   
   <url>
-    <loc>/ka/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/"
-                />
-  </url>
-  
-  <url>
     <loc>/ka/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,6 +78,20 @@
                 rel="alternate"
                 hreflang="ka"
                 href="/ka/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ka/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/"
                 />
   </url>
   
