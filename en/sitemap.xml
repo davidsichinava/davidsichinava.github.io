@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -12,16 +12,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publications/"
+                href="/en/publications/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -31,16 +31,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="/en/about/"
                 />
   </url>
   
   <url>
-    <loc>/publications/</loc>
+    <loc>/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -50,12 +50,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publications/"
+                href="/en/publications/"
                 />
   </url>
   
   <url>
-    <loc>/research/</loc>
+    <loc>/en/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -64,12 +64,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/research/"
+                href="/en/research/"
                 />
   </url>
   
   <url>
-    <loc>/teaching/</loc>
+    <loc>/en/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -78,12 +78,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/teaching/"
+                href="/en/teaching/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -92,12 +92,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka"
@@ -106,7 +106,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
   </url>
   
