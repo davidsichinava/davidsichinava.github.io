@@ -50,6 +50,13 @@ summary {
     display: block;
 }	
 
+.navbar-custom {
+  background: #F5F5F5;
+  border-bottom: 1px solid #EAEAEA;
+  font-family: 'BPG_upper';
+}
+
+
 .container {
     max-width: 42em;
     margin: 0 auto;
