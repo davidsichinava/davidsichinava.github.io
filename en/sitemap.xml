@@ -3,6 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/publications/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka"
+                href="/ka/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publications/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -32,25 +51,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publications/"
                 />
   </url>
   
