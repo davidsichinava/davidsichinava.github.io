@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/en/</loc>
     <lastmod>2017-03-01T00:00:11+01:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/</loc>
     <lastmod>2017-03-01T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="/en/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/2017-03-01t000000_podcasts/</loc>
     <lastmod>2017-03-01T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -55,9 +50,7 @@
                 hreflang="en"
                 href="/en/posts/2017-03-01t000000_podcasts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/2017-02-01t000000_soviet_polls/</loc>
     <lastmod>2017-02-01T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -80,9 +73,7 @@
                 hreflang="en"
                 href="/en/posts/2017-02-01t000000_soviet_polls/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/2017-01-21t000000_historical_elections/</loc>
     <lastmod>2017-01-21T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -105,9 +96,7 @@
                 hreflang="en"
                 href="/en/posts/2017-01-21t000000_historical_elections/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/2017-01-12t000000_polls/</loc>
     <lastmod>2017-01-12T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -130,9 +119,7 @@
                 hreflang="en"
                 href="/en/posts/2017-01-12t000000_polls/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/2016-10-20t000000_predicting_elections/</loc>
     <lastmod>2016-10-20T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -155,9 +142,7 @@
                 hreflang="en"
                 href="/en/posts/2016-10-20t000000_predicting_elections/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/posts/2014-08-29t000000_academic_publishing/</loc>
     <lastmod>2014-08-29T00:00:11+01:00</lastmod>
     <xhtml:link
@@ -180,9 +165,7 @@
                 hreflang="en"
                 href="/en/posts/2014-08-29t000000_academic_publishing/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/publications/</loc>
     <xhtml:link
                 rel="alternate"
@@ -194,9 +177,7 @@
                 hreflang="en"
                 href="/en/publications/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -208,9 +189,7 @@
                 hreflang="en"
                 href="/en/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -222,9 +201,7 @@
                 hreflang="en"
                 href="/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -236,9 +213,7 @@
                 hreflang="en"
                 href="/en/research/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -250,9 +225,7 @@
                 hreflang="en"
                 href="/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/en/teaching/</loc>
     <xhtml:link
                 rel="alternate"
@@ -265,5 +238,4 @@
                 href="/en/teaching/"
                 />
   </url>
-  
 </urlset>
