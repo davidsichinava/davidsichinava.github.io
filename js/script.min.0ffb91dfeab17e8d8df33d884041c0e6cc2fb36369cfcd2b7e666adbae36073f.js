@@ -1,1 +1,0 @@
-(function(e){"use strict";e("html").removeClass("nojs").addClass("js")})(u)

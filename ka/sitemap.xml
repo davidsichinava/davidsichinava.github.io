@@ -2,240 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/ka/posts/</loc>
-    <lastmod>2017-03-01T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/ka/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ka/publications/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
+                hreflang="en-GB"
+                href="http://localhost:1313/publications/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/publications/"
                 />
   </url><url>
-    <loc>/ka/posts/2017-03-01t000000_podcasts/</loc>
-    <lastmod>2017-03-01T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/ka/research/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-03-01t000000_podcasts/"
+                hreflang="en-GB"
+                href="http://localhost:1313/research/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-02-01t000000_soviet_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-02-01t000000_soviet_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-03-01t000000_podcasts/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/research/"
                 />
   </url><url>
-    <loc>/ka/</loc>
-    <lastmod>2017-03-01T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/ka/teaching/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="en-GB"
+                href="http://localhost:1313/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/"
-                />
-  </url><url>
-    <loc>/ka/posts/2017-02-01t000000_soviet_polls/</loc>
-    <lastmod>2017-02-01T00:00:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-03-01t000000_podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-02-01t000000_soviet_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-03-01t000000_podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-02-01t000000_soviet_polls/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/teaching/"
                 />
   </url><url>
-    <loc>/ka/posts/2017-01-21t000000_historical_elections/</loc>
-    <lastmod>2017-01-21T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/ka/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-21t000000_historical_elections/"
+                hreflang="en-GB"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-12t000000_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-12t000000_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-21t000000_historical_elections/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/categories/"
                 />
   </url><url>
-    <loc>/ka/posts/2017-01-12t000000_polls/</loc>
-    <lastmod>2017-01-12T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/ka/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-21t000000_historical_elections/"
+                hreflang="en-GB"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-12t000000_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-21t000000_historical_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-12t000000_polls/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/tags/"
                 />
   </url><url>
-    <loc>/ka/posts/2016-10-20t000000_predicting_elections/</loc>
-    <lastmod>2016-10-20T00:00:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2016-10-20t000000_predicting_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2014-08-29t000000_academic_publishing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2014-08-29t000000_academic_publishing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2016-10-20t000000_predicting_elections/"
-                />
-  </url><url>
-    <loc>/ka/posts/2014-08-29t000000_academic_publishing/</loc>
-    <lastmod>2014-08-29T00:00:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2016-10-20t000000_predicting_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2014-08-29t000000_academic_publishing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2016-10-20t000000_predicting_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2014-08-29t000000_academic_publishing/"
-                />
-  </url><url>
-    <loc>/ka/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/publications/"
-                />
-  </url><url>
-    <loc>/ka/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
-                />
-  </url><url>
-    <loc>/ka/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/categories/"
-                />
-  </url><url>
-    <loc>/ka/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/tags/"
-                />
-  </url><url>
-    <loc>/ka/research/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
-  </url><url>
-    <loc>/ka/teaching/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
-                />
+    <loc>http://localhost:1313/ka/</loc>
   </url>
 </urlset>

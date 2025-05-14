@@ -1,0 +1,109 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Products on David Sichinava",
+    "description": "Recent content in Products on David Sichinava",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/products/index.json",
+    "language": "en-GB",
+    "icon": "http://localhost:1313/apple-touch-icon.png",
+    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "items": [
+        {
+            "title": "Product 12",
+            "date_published": "2023-09-29T11:02:25+02:00",
+            "date_modified": "2023-09-29T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod12/",
+            "url": "http://localhost:1313/products/prod12/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 10",
+            "date_published": "2023-09-27T11:02:25+02:00",
+            "date_modified": "2023-09-27T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod10/",
+            "url": "http://localhost:1313/products/prod10/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 07",
+            "date_published": "2023-09-24T11:02:25+02:00",
+            "date_modified": "2023-09-24T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod07/",
+            "url": "http://localhost:1313/products/prod07/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 06",
+            "date_published": "2023-09-20T11:02:25+02:00",
+            "date_modified": "2023-09-20T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod06/",
+            "url": "http://localhost:1313/products/prod06/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 05",
+            "date_published": "2023-09-19T11:02:25+02:00",
+            "date_modified": "2023-09-19T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod05/",
+            "url": "http://localhost:1313/products/prod05/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 04",
+            "date_published": "2023-09-18T11:02:25+02:00",
+            "date_modified": "2023-09-18T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod04/",
+            "url": "http://localhost:1313/products/prod04/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 02",
+            "date_published": "2023-09-02T11:02:25+02:00",
+            "date_modified": "2023-09-02T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod02/",
+            "url": "http://localhost:1313/products/prod02/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 01",
+            "date_published": "2023-09-01T11:02:25+02:00",
+            "date_modified": "2023-09-01T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod01/",
+            "url": "http://localhost:1313/products/prod01/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 09",
+            "date_published": "2023-08-26T11:02:25+02:00",
+            "date_modified": "2023-08-26T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod09/",
+            "url": "http://localhost:1313/products/prod09/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 03",
+            "date_published": "2023-08-17T11:02:25+02:00",
+            "date_modified": "2023-08-17T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod03/",
+            "url": "http://localhost:1313/products/prod03/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 11",
+            "date_published": "2023-07-28T11:02:25+02:00",
+            "date_modified": "2023-07-28T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod11/",
+            "url": "http://localhost:1313/products/prod11/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Product 08",
+            "date_published": "2023-07-25T11:02:25+02:00",
+            "date_modified": "2023-07-25T11:02:25+02:00",
+            "id": "http://localhost:1313/products/prod08/",
+            "url": "http://localhost:1313/products/prod08/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        }
+        ]
+}

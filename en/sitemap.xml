@@ -2,240 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/</loc>
-    <lastmod>2017-03-01T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2022-08-06T21:09:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/"
+                hreflang="en-GB"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>/en/posts/</loc>
-    <lastmod>2017-03-01T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-  </url><url>
-    <loc>/en/posts/2017-03-01t000000_podcasts/</loc>
-    <lastmod>2017-03-01T00:00:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-02-01t000000_soviet_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-03-01t000000_podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-02-01t000000_soviet_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-03-01t000000_podcasts/"
+                hreflang="en-GB"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>/en/posts/2017-02-01t000000_soviet_polls/</loc>
-    <lastmod>2017-02-01T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/categories/consectetur/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dolor/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eiusmod/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod12/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sed/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-03-01t000000_podcasts/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-03-01t000000_podcasts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-02-01t000000_soviet_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-02-01t000000_soviet_polls/"
+                hreflang="en-GB"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>/en/posts/2017-01-21t000000_historical_elections/</loc>
-    <lastmod>2017-01-21T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/categories/magna/</loc>
+    <lastmod>2023-09-27T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod10/</loc>
+    <lastmod>2023-09-27T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod07/</loc>
+    <lastmod>2023-09-24T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tempor/</loc>
+    <lastmod>2023-09-24T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod06/</loc>
+    <lastmod>2023-09-20T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/labore/</loc>
+    <lastmod>2023-09-19T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod05/</loc>
+    <lastmod>2023-09-19T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ullamco/</loc>
+    <lastmod>2023-09-19T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod04/</loc>
+    <lastmod>2023-09-18T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod02/</loc>
+    <lastmod>2023-09-02T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/amet/</loc>
+    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/elit/</loc>
+    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod01/</loc>
+    <lastmod>2023-09-01T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod09/</loc>
+    <lastmod>2023-08-26T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/aliqua/</loc>
+    <lastmod>2023-08-17T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod03/</loc>
+    <lastmod>2023-08-17T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod11/</loc>
+    <lastmod>2023-07-28T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/products/prod08/</loc>
+    <lastmod>2023-07-25T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post-2/</loc>
+    <lastmod>2022-08-06T21:09:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post-1/</loc>
+    <lastmod>2022-08-05T09:09:03+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-12t000000_polls/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/publications/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-21t000000_historical_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-12t000000_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-21t000000_historical_elections/"
+                hreflang="en-GB"
+                href="http://localhost:1313/publications/"
                 />
   </url><url>
-    <loc>/en/posts/2017-01-12t000000_polls/</loc>
-    <lastmod>2017-01-12T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/research/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-21t000000_historical_elections/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/research/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-21t000000_historical_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2017-01-12t000000_polls/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2017-01-12t000000_polls/"
+                hreflang="en-GB"
+                href="http://localhost:1313/research/"
                 />
   </url><url>
-    <loc>/en/posts/2016-10-20t000000_predicting_elections/</loc>
-    <lastmod>2016-10-20T00:00:11+01:00</lastmod>
+    <loc>http://localhost:1313/teaching/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/posts/2014-08-29t000000_academic_publishing/"
+                hreflang="ka-GE"
+                href="http://localhost:1313/ka/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2016-10-20t000000_predicting_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2014-08-29t000000_academic_publishing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2016-10-20t000000_predicting_elections/"
+                hreflang="en-GB"
+                href="http://localhost:1313/teaching/"
                 />
   </url><url>
-    <loc>/en/posts/2014-08-29t000000_academic_publishing/</loc>
-    <lastmod>2014-08-29T00:00:11+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2016-10-20t000000_predicting_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2016-10-20t000000_predicting_elections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/posts/2014-08-29t000000_academic_publishing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/2014-08-29t000000_academic_publishing/"
-                />
+    <loc>http://localhost:1313/misc/components/</loc>
   </url><url>
-    <loc>/en/publications/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publications/"
-                />
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
+    <loc>http://localhost:1313/misc/layout/</loc>
   </url><url>
-    <loc>/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
+    <loc>http://localhost:1313/misc/math/</loc>
   </url><url>
-    <loc>/en/research/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/research/"
-                />
+    <loc>http://localhost:1313/misc/</loc>
   </url><url>
-    <loc>/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-  </url><url>
-    <loc>/en/teaching/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka"
-                href="/ka/teaching/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/teaching/"
-                />
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

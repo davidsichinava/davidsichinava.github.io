@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>David Sichinava</title>
+    <link>http://localhost:1313/podcast/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sat, 06 Aug 2022 18:09:03 +0200</lastBuildDate>
+    
+    
+    
+    
+    
+    
+    
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Episod 1</title>
+      <itunes:title>Episod 1</itunes:title>
+      <link>http://localhost:1313/podcast/episod-1/</link>
+      <guid>http://localhost:1313/podcast/episod-1/</guid>
+      <pubDate>Sat, 06 Aug 2022 18:09:03 +0200</pubDate>
+      
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+      <enclosure url="http://localhost:1313/podcasts/podcast1.mp3" length="173452" type="audio/mpeg" />
+      <itunes:duration>0:0:10</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Episod 2</title>
+      <itunes:title>Episod 2</itunes:title>
+      <link>http://localhost:1313/podcast/episod-2/</link>
+      <guid>http://localhost:1313/podcast/episod-2/</guid>
+      <pubDate>Wed, 03 Aug 2022 16:09:03 +0200</pubDate>
+      
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+      <enclosure url="http://localhost:1313/podcasts/podcast2.mp3" length="173452" type="audio/mpeg" />
+      <itunes:duration>0:0:10</itunes:duration>
+      
+      
+      
+      
+      
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    </channel>
+</rss>

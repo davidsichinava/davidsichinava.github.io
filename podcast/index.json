@@ -1,0 +1,35 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Podcast section on David Sichinava",
+    "description": "Recent content in Podcast section on David Sichinava",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/podcast/index.json",
+    "language": "en-GB",
+    "icon": "http://localhost:1313/apple-touch-icon.png",
+    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Fredrik Jonsson",
+            "url": "https://sichinava.ge"
+        }
+    ],
+    "items": [
+        {
+            "title": "Episod 1",
+            "date_published": "2022-08-06T18:09:03+02:00",
+            "date_modified": "2022-08-06T18:09:03+02:00",
+            "id": "http://localhost:1313/podcast/episod-1/",
+            "url": "http://localhost:1313/podcast/episod-1/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Episod 2",
+            "date_published": "2022-08-03T16:09:03+02:00",
+            "date_modified": "2022-08-03T16:09:03+02:00",
+            "id": "http://localhost:1313/podcast/episod-2/",
+            "url": "http://localhost:1313/podcast/episod-2/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        }
+        ]
+}

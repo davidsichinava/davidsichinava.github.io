@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog section on David Sichinava</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog section on David Sichinava</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sat, 06 Aug 2022 21:09:03 +0200</lastBuildDate>
+      <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog post 2</title>
+      <link>http://localhost:1313/blog/post-2/</link>
+      <pubDate>Sat, 06 Aug 2022 21:09:03 +0200</pubDate>
+      <guid>http://localhost:1313/blog/post-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;&lt;figure class=&#34;image center&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/image2.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Flower 1&#34; width=&#34;400&#34; height=&#34;339&#34;&gt;&#xA;&lt;figcaption&gt;&#xA;A nice flower caption 1.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;&lt;figure class=&#34;image center&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/image3.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Flower 2&#34; width=&#34;400&#34; height=&#34;533&#34;&gt;&#xA;&lt;figcaption&gt;&#xA;A nice flower caption 2.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Blog post 1</title>
+      <link>http://localhost:1313/blog/post-1/</link>
+      <pubDate>Fri, 05 Aug 2022 09:09:03 +0200</pubDate>
+      <guid>http://localhost:1313/blog/post-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;&lt;figure class=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/image1.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Flower 1&#34; width=&#34;400&#34; height=&#34;453&#34;&gt;&#xA;&lt;figcaption&gt;&#xA;A nice flower caption.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
