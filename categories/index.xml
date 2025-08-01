@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Sichinava</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://sichinava.ge/categories/</link>
     <description>Recent content in Categories on David Sichinava</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 29 Sep 2023 11:02:25 +0200</lastBuildDate>
-      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://sichinava.ge/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consectetur</title>
-      <link>http://localhost:1313/categories/consectetur/</link>
+      <link>https://sichinava.ge/categories/consectetur/</link>
       <pubDate>Fri, 29 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/categories/consectetur/</guid>
+      <guid>https://sichinava.ge/categories/consectetur/</guid>
       <description></description>
     </item>
     <item>
       <title>Eiusmod</title>
-      <link>http://localhost:1313/categories/eiusmod/</link>
+      <link>https://sichinava.ge/categories/eiusmod/</link>
       <pubDate>Fri, 29 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/categories/eiusmod/</guid>
+      <guid>https://sichinava.ge/categories/eiusmod/</guid>
       <description></description>
     </item>
     <item>
       <title>Magna</title>
-      <link>http://localhost:1313/categories/magna/</link>
+      <link>https://sichinava.ge/categories/magna/</link>
       <pubDate>Wed, 27 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/categories/magna/</guid>
+      <guid>https://sichinava.ge/categories/magna/</guid>
       <description></description>
     </item>
     <item>
       <title>Elit</title>
-      <link>http://localhost:1313/categories/elit/</link>
+      <link>https://sichinava.ge/categories/elit/</link>
       <pubDate>Fri, 01 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/categories/elit/</guid>
+      <guid>https://sichinava.ge/categories/elit/</guid>
       <description></description>
     </item>
     <item>
       <title>Aliqua</title>
-      <link>http://localhost:1313/categories/aliqua/</link>
+      <link>https://sichinava.ge/categories/aliqua/</link>
       <pubDate>Thu, 17 Aug 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/categories/aliqua/</guid>
+      <guid>https://sichinava.ge/categories/aliqua/</guid>
       <description></description>
     </item>
   </channel>

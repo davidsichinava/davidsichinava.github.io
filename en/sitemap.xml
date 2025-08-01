@@ -2,172 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://sichinava.ge/blog/</loc>
     <lastmod>2022-08-06T21:09:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/</loc>
+    <loc>https://sichinava.ge/products/</loc>
     <lastmod>2023-09-29T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka-GE"
-                href="http://localhost:1313/ka/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sichinava.ge/</loc>
     <lastmod>2023-09-29T11:02:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/categories/"
+                href="https://sichinava.ge/ka/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/categories/"
+                href="https://sichinava.ge/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/consectetur/</loc>
-    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dolor/</loc>
-    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/eiusmod/</loc>
-    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/products/prod12/</loc>
-    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sed/</loc>
-    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sichinava.ge/categories/</loc>
     <lastmod>2023-09-29T11:02:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/tags/"
+                href="https://sichinava.ge/ka/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/tags/"
+                href="https://sichinava.ge/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/magna/</loc>
+    <loc>https://sichinava.ge/categories/consectetur/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sichinava.ge/tags/dolor/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sichinava.ge/categories/eiusmod/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sichinava.ge/products/prod12/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sichinava.ge/tags/sed/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+  </url><url>
+    <loc>https://sichinava.ge/tags/</loc>
+    <lastmod>2023-09-29T11:02:25+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka-GE"
+                href="https://sichinava.ge/ka/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://sichinava.ge/tags/"
+                />
+  </url><url>
+    <loc>https://sichinava.ge/categories/magna/</loc>
     <lastmod>2023-09-27T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod10/</loc>
+    <loc>https://sichinava.ge/products/prod10/</loc>
     <lastmod>2023-09-27T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod07/</loc>
+    <loc>https://sichinava.ge/products/prod07/</loc>
     <lastmod>2023-09-24T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tempor/</loc>
+    <loc>https://sichinava.ge/tags/tempor/</loc>
     <lastmod>2023-09-24T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod06/</loc>
+    <loc>https://sichinava.ge/products/prod06/</loc>
     <lastmod>2023-09-20T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/labore/</loc>
+    <loc>https://sichinava.ge/tags/labore/</loc>
     <lastmod>2023-09-19T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod05/</loc>
+    <loc>https://sichinava.ge/products/prod05/</loc>
     <lastmod>2023-09-19T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ullamco/</loc>
+    <loc>https://sichinava.ge/tags/ullamco/</loc>
     <lastmod>2023-09-19T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod04/</loc>
+    <loc>https://sichinava.ge/products/prod04/</loc>
     <lastmod>2023-09-18T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod02/</loc>
+    <loc>https://sichinava.ge/products/prod02/</loc>
     <lastmod>2023-09-02T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/amet/</loc>
+    <loc>https://sichinava.ge/tags/amet/</loc>
     <lastmod>2023-09-01T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/elit/</loc>
+    <loc>https://sichinava.ge/categories/elit/</loc>
     <lastmod>2023-09-01T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod01/</loc>
+    <loc>https://sichinava.ge/products/prod01/</loc>
     <lastmod>2023-09-01T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod09/</loc>
+    <loc>https://sichinava.ge/products/prod09/</loc>
     <lastmod>2023-08-26T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/aliqua/</loc>
+    <loc>https://sichinava.ge/categories/aliqua/</loc>
     <lastmod>2023-08-17T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod03/</loc>
+    <loc>https://sichinava.ge/products/prod03/</loc>
     <lastmod>2023-08-17T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod11/</loc>
+    <loc>https://sichinava.ge/products/prod11/</loc>
     <lastmod>2023-07-28T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/products/prod08/</loc>
+    <loc>https://sichinava.ge/products/prod08/</loc>
     <lastmod>2023-07-25T11:02:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-2/</loc>
+    <loc>https://sichinava.ge/blog/post-2/</loc>
     <lastmod>2022-08-06T21:09:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post-1/</loc>
+    <loc>https://sichinava.ge/blog/post-1/</loc>
     <lastmod>2022-08-05T09:09:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://sichinava.ge/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/publications/"
+                href="https://sichinava.ge/ka/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/publications/"
+                href="https://sichinava.ge/publications/"
                 />
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://sichinava.ge/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/research/"
+                href="https://sichinava.ge/ka/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/research/"
+                href="https://sichinava.ge/research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://sichinava.ge/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/teaching/"
+                href="https://sichinava.ge/ka/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/teaching/"
+                href="https://sichinava.ge/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/misc/components/</loc>
+    <loc>https://sichinava.ge/misc/components/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://sichinava.ge/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/misc/layout/</loc>
+    <loc>https://sichinava.ge/misc/layout/</loc>
   </url><url>
-    <loc>http://localhost:1313/misc/math/</loc>
+    <loc>https://sichinava.ge/misc/math/</loc>
   </url><url>
-    <loc>http://localhost:1313/misc/</loc>
+    <loc>https://sichinava.ge/misc/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://sichinava.ge/search/</loc>
   </url>
 </urlset>

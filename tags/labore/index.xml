@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Labore on David Sichinava</title>
-    <link>http://localhost:1313/tags/labore/</link>
+    <link>https://sichinava.ge/tags/labore/</link>
     <description>Recent content in Labore on David Sichinava</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Tue, 19 Sep 2023 11:02:25 +0200</lastBuildDate>
-      <atom:link href="http://localhost:1313/tags/labore/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://sichinava.ge/tags/labore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product 05</title>
-      <link>http://localhost:1313/products/prod05/</link>
+      <link>https://sichinava.ge/products/prod05/</link>
       <pubDate>Tue, 19 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/products/prod05/</guid>
+      <guid>https://sichinava.ge/products/prod05/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Product 09</title>
-      <link>http://localhost:1313/products/prod09/</link>
+      <link>https://sichinava.ge/products/prod09/</link>
       <pubDate>Sat, 26 Aug 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/products/prod09/</guid>
+      <guid>https://sichinava.ge/products/prod09/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>

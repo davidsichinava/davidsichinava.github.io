@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Sichinava</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://sichinava.ge/tags/</link>
     <description>Recent content in Tags on David Sichinava</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 29 Sep 2023 11:02:25 +0200</lastBuildDate>
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://sichinava.ge/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dolor</title>
-      <link>http://localhost:1313/tags/dolor/</link>
+      <link>https://sichinava.ge/tags/dolor/</link>
       <pubDate>Fri, 29 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/dolor/</guid>
+      <guid>https://sichinava.ge/tags/dolor/</guid>
       <description></description>
     </item>
     <item>
       <title>Sed</title>
-      <link>http://localhost:1313/tags/sed/</link>
+      <link>https://sichinava.ge/tags/sed/</link>
       <pubDate>Fri, 29 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/sed/</guid>
+      <guid>https://sichinava.ge/tags/sed/</guid>
       <description></description>
     </item>
     <item>
       <title>Tempor</title>
-      <link>http://localhost:1313/tags/tempor/</link>
+      <link>https://sichinava.ge/tags/tempor/</link>
       <pubDate>Sun, 24 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/tempor/</guid>
+      <guid>https://sichinava.ge/tags/tempor/</guid>
       <description></description>
     </item>
     <item>
       <title>Labore</title>
-      <link>http://localhost:1313/tags/labore/</link>
+      <link>https://sichinava.ge/tags/labore/</link>
       <pubDate>Tue, 19 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/labore/</guid>
+      <guid>https://sichinava.ge/tags/labore/</guid>
       <description></description>
     </item>
     <item>
       <title>Ullamco</title>
-      <link>http://localhost:1313/tags/ullamco/</link>
+      <link>https://sichinava.ge/tags/ullamco/</link>
       <pubDate>Tue, 19 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/ullamco/</guid>
+      <guid>https://sichinava.ge/tags/ullamco/</guid>
       <description></description>
     </item>
     <item>
       <title>Amet</title>
-      <link>http://localhost:1313/tags/amet/</link>
+      <link>https://sichinava.ge/tags/amet/</link>
       <pubDate>Fri, 01 Sep 2023 11:02:25 +0200</pubDate>
-      <guid>http://localhost:1313/tags/amet/</guid>
+      <guid>https://sichinava.ge/tags/amet/</guid>
       <description></description>
     </item>
   </channel>

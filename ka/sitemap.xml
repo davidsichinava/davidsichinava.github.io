@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ka/about/</loc>
+    <loc>https://sichinava.ge/ka/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/ka/publications/</loc>
+    <loc>https://sichinava.ge/ka/publications/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/publications/"
+                href="https://sichinava.ge/publications/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/publications/"
+                href="https://sichinava.ge/ka/publications/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ka/research/</loc>
+    <loc>https://sichinava.ge/ka/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/research/"
+                href="https://sichinava.ge/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/research/"
+                href="https://sichinava.ge/ka/research/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ka/teaching/</loc>
+    <loc>https://sichinava.ge/ka/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/teaching/"
+                href="https://sichinava.ge/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/teaching/"
+                href="https://sichinava.ge/ka/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ka/categories/</loc>
+    <loc>https://sichinava.ge/ka/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/categories/"
+                href="https://sichinava.ge/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/categories/"
+                href="https://sichinava.ge/ka/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ka/tags/</loc>
+    <loc>https://sichinava.ge/ka/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="http://localhost:1313/tags/"
+                href="https://sichinava.ge/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ka-GE"
-                href="http://localhost:1313/ka/tags/"
+                href="https://sichinava.ge/ka/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ka/</loc>
+    <loc>https://sichinava.ge/ka/</loc>
   </url>
 </urlset>

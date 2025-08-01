@@ -3,26 +3,26 @@
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Blog section on David Sichinava",
     "description": "Recent content in Blog section on David Sichinava",
-    "home_page_url": "http://localhost:1313/",
-    "feed_url": "http://localhost:1313/blog/index.json",
+    "home_page_url": "https://sichinava.ge/",
+    "feed_url": "https://sichinava.ge/blog/index.json",
     "language": "en-GB",
-    "icon": "http://localhost:1313/apple-touch-icon.png",
-    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "icon": "https://sichinava.ge/apple-touch-icon.png",
+    "favicon": "https://sichinava.ge/apple-touch-icon.png",
     "items": [
         {
             "title": "Blog post 2",
             "date_published": "2022-08-06T21:09:03+02:00",
             "date_modified": "2022-08-06T21:09:03+02:00",
-            "id": "http://localhost:1313/blog/post-2/",
-            "url": "http://localhost:1313/blog/post-2/",
+            "id": "https://sichinava.ge/blog/post-2/",
+            "url": "https://sichinava.ge/blog/post-2/",
             "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n\u003cfigure class=\"image center\"\u003e\n\u003cimg src=\"/images/image2.jpeg\" loading=\"lazy\" alt=\"Flower 1\" width=\"400\" height=\"339\"\u003e\n\u003cfigcaption\u003e\nA nice flower caption 1.\u003c/figcaption\u003e\n\u003c/figure\u003e\n\n\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n\u003cfigure class=\"image center\"\u003e\n\u003cimg src=\"/images/image3.jpeg\" loading=\"lazy\" alt=\"Flower 2\" width=\"400\" height=\"533\"\u003e\n\u003cfigcaption\u003e\nA nice flower caption 2.\u003c/figcaption\u003e\n\u003c/figure\u003e\n\n\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
         },
         {
             "title": "Blog post 1",
             "date_published": "2022-08-05T09:09:03+02:00",
             "date_modified": "2022-08-05T09:09:03+02:00",
-            "id": "http://localhost:1313/blog/post-1/",
-            "url": "http://localhost:1313/blog/post-1/",
+            "id": "https://sichinava.ge/blog/post-1/",
+            "url": "https://sichinava.ge/blog/post-1/",
             "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n\u003cfigure class=\"image\"\u003e\n\u003cimg src=\"/images/image1.jpeg\" loading=\"lazy\" alt=\"Flower 1\" width=\"400\" height=\"453\"\u003e\n\u003cfigcaption\u003e\nA nice flower caption.\u003c/figcaption\u003e\n\u003c/figure\u003e\n\n\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
         }
         ]
