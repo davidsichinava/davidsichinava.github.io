@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sichinava.ge/ka/about/</loc>
+    <loc>https://sichinava.ge/ka/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://sichinava.ge/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka-GE"
+                href="https://sichinava.ge/ka/research/"
+                />
   </url><url>
     <loc>https://sichinava.ge/ka/publications/</loc>
     <xhtml:link
@@ -14,18 +24,6 @@
                 rel="alternate"
                 hreflang="ka-GE"
                 href="https://sichinava.ge/ka/publications/"
-                />
-  </url><url>
-    <loc>https://sichinava.ge/ka/research/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://sichinava.ge/research/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka-GE"
-                href="https://sichinava.ge/ka/research/"
                 />
   </url><url>
     <loc>https://sichinava.ge/ka/teaching/</loc>
@@ -40,30 +38,16 @@
                 href="https://sichinava.ge/ka/teaching/"
                 />
   </url><url>
-    <loc>https://sichinava.ge/ka/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://sichinava.ge/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka-GE"
-                href="https://sichinava.ge/ka/categories/"
-                />
-  </url><url>
-    <loc>https://sichinava.ge/ka/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://sichinava.ge/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ka-GE"
-                href="https://sichinava.ge/ka/tags/"
-                />
-  </url><url>
     <loc>https://sichinava.ge/ka/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://sichinava.ge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ka-GE"
+                href="https://sichinava.ge/ka/"
+                />
   </url>
 </urlset>
